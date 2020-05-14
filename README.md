@@ -2,12 +2,12 @@
 
 # Laconic KickassUI.Banking
 
-Pixel perfect <sup>*</sup> rewrite of [KickassUI.Banking](https://github.com/sthewissen/KickassUI.Banking) 
+Pixel perfect<sup>*</sup> rewrite of [KickassUI.Banking](https://github.com/sthewissen/KickassUI.Banking) 
 using [Laconic](https://github.com/shirshov/laconic)
 
 <img src="https://github.com/sthewissen/KickassUI.Banking/blob/master/combined.jpg" />
 
-Laconic is added as a git submodule, do `git submodule init` after cloning this projects.
+Laconic is added as a git submodule, do `git submodule init` after cloning this repo.
 
 ## Stats
 
