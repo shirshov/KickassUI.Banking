@@ -39,7 +39,7 @@ SUM:                             7             30              1            436
 -------------------------------------------------------------------------------
 ```
 
-**Character count**, calculated with  `-type f \( -name "*.xaml" -o -name "*.cs" \) -exec cat {} + | wc -m`
+**Character count**, calculated with  `find . -type f \( -name "*.xaml" -o -name "*.cs" \) -exec cat {} + | wc -m`
 
 Original: 25,859
 
