@@ -47,7 +47,7 @@ With Laconic: 16,848
 
 ## PancakeView
 This rewrite shows how to use 3rd party controls in a Laconic app. 
-Check the [PancakeView.cs](https://github.com/shirshov/KickassUI.Banking/tree/master/KickassUI.Banking/PancakeView.cs) file.
+Check the [PancakeView.cs](https://github.com/shirshov/KickassUI.Banking/blob/laconic/KickassUI.Banking/PancakeView.cs) file.
 
 ----
 \*  Well, almost. A couple of FontAwesome icons were replaced with close equivalents.
