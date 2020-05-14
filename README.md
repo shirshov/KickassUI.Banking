@@ -11,7 +11,7 @@ Laconic is added as a git submodule, do `git submodule init` after cloning this 
 
 ## Stats
 
-Line count of files inside the KickassUI.Banking folder:    
+**Line count** of files inside the KickassUI.Banking folder:    
 
 Original (XAML files were reformatted to put each attribute on new line):
 
@@ -39,7 +39,7 @@ SUM:                             7             30              1            436
 -------------------------------------------------------------------------------
 ```
 
-Character count, calculated with  `-type f \( -name "*.xaml" -o -name "*.cs" \) -exec cat {} + | wc -m`
+**Character count**, calculated with  `-type f \( -name "*.xaml" -o -name "*.cs" \) -exec cat {} + | wc -m`
 
 Original: 25,859
 
