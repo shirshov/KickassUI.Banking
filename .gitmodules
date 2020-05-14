@@ -1,0 +1,3 @@
+[submodule "laconic"]
+	path = laconic
+	url = https://github.com/shirshov/laconic.git

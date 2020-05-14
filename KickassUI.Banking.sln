@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KickassUI.Banking.iOS", "Ki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KickassUI.Banking", "KickassUI.Banking\KickassUI.Banking.csproj", "{83CEAFDF-ADFD-40B6-A362-324AF58722A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laconic", "laconic\src\Laconic.csproj", "{C834D734-168A-4D90-8ABE-A02CDA504444}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,17 @@ Global
 		{83CEAFDF-ADFD-40B6-A362-324AF58722A4}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{83CEAFDF-ADFD-40B6-A362-324AF58722A4}.Release|iPhone.ActiveCfg = Release|Any CPU
 		{83CEAFDF-ADFD-40B6-A362-324AF58722A4}.Release|iPhone.Build.0 = Release|Any CPU
+		{C834D734-168A-4D90-8ABE-A02CDA504444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C834D734-168A-4D90-8ABE-A02CDA504444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C834D734-168A-4D90-8ABE-A02CDA504444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C834D734-168A-4D90-8ABE-A02CDA504444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C834D734-168A-4D90-8ABE-A02CDA504444}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{C834D734-168A-4D90-8ABE-A02CDA504444}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{C834D734-168A-4D90-8ABE-A02CDA504444}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{C834D734-168A-4D90-8ABE-A02CDA504444}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{C834D734-168A-4D90-8ABE-A02CDA504444}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{C834D734-168A-4D90-8ABE-A02CDA504444}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{C834D734-168A-4D90-8ABE-A02CDA504444}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{C834D734-168A-4D90-8ABE-A02CDA504444}.Release|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
