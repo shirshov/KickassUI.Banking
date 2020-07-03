@@ -147,4 +147,9 @@
     <BundleResource Include="Resources\background%402x.jpg" />
     <BundleResource Include="Resources\background.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.ComponentModel" Version="4.3.0" />
+    <PackageReference Include="Xamarin.Forms" Version="4.7.0.1080" />
+    <PackageReference Include="Xamarin.Forms.PancakeView" Version="1.4.2" />
+  </ItemGroup>
 </Project>
