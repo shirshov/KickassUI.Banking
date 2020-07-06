@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -11,16 +12,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Xamarin.Forms" Version="4.0.0.497661" />
-    <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
-    <PackageReference Include="FreshMvvm" Version="3.0.0" />
-    <PackageReference Include="LiveXAML" Version="2.1.72" />
-    <PackageReference Include="Xamarin.Forms.PancakeView" Version="1.0.24-beta" />
+    <PackageReference Include="Xamarin.Forms.PancakeView" Version="1.4.2" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Pages\" />
-    <Folder Include="PageModels\" />
-    <Folder Include="Effects\" />
-    <Folder Include="Controls\" />
+    <ProjectReference Include="..\laconic\src\Laconic.csproj" />
   </ItemGroup>
 </Project>
